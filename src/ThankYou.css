@@ -1,0 +1,35 @@
+/* Thank You Page Styles */
+.thank-you-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .thank-you-container h2 {
+    font-size: 24px;
+    color: #007bff;
+  }
+  
+  .thank-you-container p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .thank-you-container button {
+    background-color: #dc3545;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .thank-you-container button:hover {
+    background-color: #c82333;
+  }
+  
